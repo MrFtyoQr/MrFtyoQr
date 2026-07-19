@@ -1,350 +1,458 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6B4F,50:0E7490,100:1D4ED8&height=220&section=header&text=Joseph%20Quintana&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Founder%20%40%20TreeTech&descAlignY=55&descSize=18" alt="Joseph Quintana header" />
+
 <div align="center">
 
-# Joseph Quintana
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Building+technology+that+gives+people+their+time+back.;AI+Automation+%C2%B7+Backend+Systems+%C2%B7+Product+Engineering;Turning+real-world+problems+into+reliable+software.)](https://git.io/typing-svg)
 
-### Software Engineer · Founder @ TreeTech
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-Degree_in_progress-0B6B4F?style=flat-square&logo=academia&logoColor=white)
+![TreeTech](https://img.shields.io/badge/TreeTech-AI_%26_Software_Studio-0E7490?style=flat-square&logo=databricks&logoColor=white)
+![Location](https://img.shields.io/badge/Acapulco-Guerrero%2C_Mexico-1D4ED8?style=flat-square&logo=googlemaps&logoColor=white)
 
-**Building technology that gives people their time back.**
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Quintana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephquintana-tech)
-[![Instagram](https://img.shields.io/badge/Instagram-@treetechmx-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/treetechmx)
-[![Email](https://img.shields.io/badge/Email-quintana.real.jqr%40gmail.com-34495E?style=flat-square&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
+[![Portfolio](https://img.shields.io/badge/Engineering_Portfolio-Explore_Repositories-0B6B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephquintana-tech)
+[![Email](https://img.shields.io/badge/Email-Discuss_a_Project-1597D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=MrFtyoQr&label=Profile%20Views&color=0E7490&style=flat-square)
+![Followers](https://img.shields.io/github/followers/MrFtyoQr?label=Followers&style=flat-square&color=0B6B4F)
+![Stars](https://img.shields.io/github/stars/MrFtyoQr?affiliations=OWNER&label=Repository%20Stars&style=flat-square&color=1D4ED8)
+![Repositories](https://img.shields.io/badge/Public_Portfolio-In_Active_Curation-1597D4?style=flat-square)
 
 </div>
 
 ---
 
-## Mission
+## About
 
-I build intelligent software, automation and scalable systems that remove repetitive work and return time to people, teams and businesses.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-TreeTech was born from a simple belief:
+### Engineering profile
 
-> **Every repeated task is an opportunity to give someone their time back.**
+I am a **software engineer** focused on artificial intelligence, backend systems, business automation, mobile development and systems integration.
 
-Technology should not exist only because it is impressive. It should reduce friction, improve decisions and create space for people to think, build, spend time with their families and live beyond routine.
+I am completing an Engineering degree in **Multiplatform Software Development and Management** while building real products and developing **TreeTech**, an early-stage **AI & Software Studio**.
 
----
-
-## About me
-
-I am a software engineer based in Acapulco, Guerrero, Mexico, focused on artificial intelligence, backend systems, automation, mobile development and business integrations.
-
-I am currently completing an Engineering degree in Multiplatform Software Development and Management while building real-world products and developing **TreeTech**, an early-stage **AI & Software Studio**.
-
-My work is guided by a practical question:
+My work begins with one practical question:
 
 > **What problem is worth solving, and how can software solve it responsibly?**
 
-I do not see artificial intelligence as a replacement for human capability. I see it as an engineering tool that can help people work with greater speed, context and precision when it is designed with privacy, security and human oversight.
+I see artificial intelligence as an engineering tool that can expand human capability when it is designed around privacy, security, evidence and human oversight.
+
+</td>
+<td width="42%" valign="top">
+
+### Mission
+
+**TreeTech exists to give people their time back.**
+
+Every repeated task is an opportunity to create more time for:
+
+- Better decisions
+- Customers
+- Family
+- Creativity
+- Meaningful work
+- Life beyond routine
+
+**Technology should remove friction, not create more of it.**
+
+</td>
+</tr>
+</table>
+
+### Open to
+
+![AI Automation](https://img.shields.io/badge/AI_Automation-Projects-0B6B4F?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend_%26_APIs-Collaboration-0E7490?style=flat-square)
+![Product Engineering](https://img.shields.io/badge/Product_Engineering-Early_Stage-1597D4?style=flat-square)
+![Business Systems](https://img.shields.io/badge/Business_Systems-Consulting-1D4ED8?style=flat-square)
+![Software Roles](https://img.shields.io/badge/Software_Engineering-Professional_Opportunities-34495E?style=flat-square)
 
 ---
 
-## Why I build
-
-Artificial intelligence became widely accessible while I was finishing high school. At first, the conversation around it moved between rejection, excitement and fear that it would replace software professionals.
-
-I eventually understood that engineering has always evolved through tools. The value is not in using a tool because it is popular, but in knowing when it improves a process and when it introduces unnecessary risk.
-
-My experience around healthcare changed my perspective again. I saw how repetitive processes, manual data entry and administrative work consume something more valuable than money: **time**.
-
-That insight became the foundation of TreeTech:
-
-- Time for better decisions.
-- Time for customers.
-- Time for family.
-- Time to create.
-- Time to live instead of only surviving routine.
-
----
-
-## Selected Work
-
-### 🏅 Public-sector AI collaboration
-
-**AI-assisted information analysis · Local AI · Workflow automation**
-
-I was invited to collaborate with a public-sector technology team after they reviewed my previous work automating sales processes through Facebook.
-
-The collaboration began with process automation and practical demonstrations of artificial intelligence. During this period, I:
-
-- Built the first MVP of **Focus**, a lightweight Flutter productivity application, in approximately four hours.
-- Reviewed existing technical workflows with the team.
-- Proposed using locally hosted language models through **Ollama** so sensitive information would not need to be sent to external cloud services.
-- Helped explore an AI-assisted approach for identifying possible relationships, shared locations and relevant connections across existing records.
-- Supported integration of the concept into an existing codebase.
-- Participated in two limited functional tests, constrained by the available computing hardware.
-- Contributed to the automation of an additional internal process.
-- Assisted with the technical evaluation of an open-source OSINT utility for research based on publicly available information.
-
-The purpose of the proposal was not to replace human analysis, but to reduce repetitive review and help personnel prioritize information for validation.
-
-This collaboration resulted in formal recognition from the **Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo (C5 Morelos)** for my technological contribution to information systems.
-
-> Details have been intentionally generalized to respect privacy, security and institutional confidentiality.  
-> The recognition documents an individual contribution and does not imply institutional endorsement of TreeTech.
-
----
-
-### 🩺 MailyLEGACY
-
-**Legacy healthcare monitoring platform**
-
-MailyLEGACY is a healthcare-oriented platform designed to capture, organize and visualize health indicators while supporting follow-up and reminders.
-
-Its scope included information such as:
-
-- Body weight and height.
-- Body mass index.
-- Temperature.
-- Heart and respiratory rate.
-- Blood pressure.
-- Blood glucose.
-- Oxygen saturation.
-- Sleep-related information.
-- Additional health and wellness indicators.
-
-The platform was designed as a support tool and never as a replacement for professional medical evaluation or diagnosis.
-
-This project is preserved as a technical legacy and case study. It is no longer affiliated with the original clinic where the idea was developed.
-
----
-
-### 🏍️ Mototrack
-
-**Motorcycle lifecycle management platform**
-
-Mototrack is a product concept focused on helping motorcycle owners organize the complete history of their vehicle.
-
-The vision includes:
-
-- Maintenance reminders based on time or mileage.
-- Expense tracking.
-- Digital service history.
-- Workshop discovery.
-- Rankings and business visibility.
-- Coupons and loyalty incentives.
-- Cloud synchronization.
-- Freemium and subscription-based plans.
-
-The goal is to reduce forgotten maintenance, improve ownership decisions and create a digital relationship between riders and trusted workshops.
-
----
-
-### 🌎 Econers
-
-**Proximity-based local commerce ecosystem**
-
-Econers is a local-commerce concept designed to connect nearby businesses and customers through relevance, location and timely offers.
-
-Its functional vision includes:
-
-- User and business profiles.
-- Geolocated promotions.
-- Interest-based relevance filters.
-- Proximity notifications.
-- Nearby offer discovery.
-- Business metrics and conversion insights.
-- Notification history.
-- Safer meeting or exchange points.
-- Tools for local businesses to increase visibility without depending only on large advertising platforms.
-
-Econers is based on the idea that technology should strengthen nearby commerce instead of making local businesses invisible.
-
----
-
-### 🎯 Focus
-
-**Rapid productivity MVP**
-
-Focus began as a static Flutter MVP created during the public-sector collaboration.
-
-The first functional version was built in approximately four hours to demonstrate how a small, focused application could reduce friction for operational teams before introducing more complex automation.
-
-The project represents one of my core engineering principles:
-
-> Start with the smallest useful system, validate it with real users and improve from evidence.
-
----
-
-## Recognition
-
-### Centro Estatal de Información / C5 Morelos — 2025
-
-Formal recognition for technological contribution to the information systems of the Centro Estatal de Información.
-
-<!--
-Add the cleaned certificate image to:
-assets/recognitions/c5-morelos-recognition-2025.webp
-
-Then uncomment this block:
--->
-
-<p align="center">
-  <img
-    src="./assets/recognitions/c5-morelos-recognition-2025.PNG"
-    alt="Recognition from C5 Morelos for technological contribution to information systems"
-    width="720"
-  />
-</p>
-
-
----
-
-## TreeTech
-
-**TreeTech is an early-stage AI & Software Studio focused on building technology that gives people their time back.**
-
-### What I am building through TreeTech
-
-- AI agents for customer service, sales and internal operations.
-- Business process automation.
-- WhatsApp and messaging integrations.
-- Backend APIs and business systems.
-- Web and mobile applications.
-- Data processing and operational dashboards.
-- Privacy-conscious local AI solutions.
-- Custom software for real operational problems.
-
-### TreeTech philosophy
-
-- Solve the real problem, not only the visible symptom.
-- Automate repetition without removing human judgment.
-- Prefer measurable outcomes over technological hype.
-- Protect sensitive information by design.
-- Build small, validate quickly and scale with evidence.
-- Document decisions so systems remain understandable.
-- Use technology to create time, not more complexity.
-
----
-
-## Engineering Areas
-
-- Artificial Intelligence and AI-assisted systems.
-- Backend architecture and API design.
-- Business process automation.
-- Mobile and multiplatform development.
-- Data processing and visualization.
-- Cloud and self-hosted infrastructure.
-- System integrations.
-- Security, privacy and responsible engineering.
-
----
-
-## Technology Stack
-
-### Languages and application development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Backend and APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+## Tech Stack
+
+### Languages
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,dart,java,php,ruby&theme=dark&perline=8" alt="Programming languages" />
+  </a>
+</div>
 
 ### Frontend and mobile
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,html,css,figma&theme=dark&perline=8" alt="Frontend and mobile technologies" />
+  </a>
+</div>
 
-### Data and infrastructure
+### Backend and databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,postgres,mysql,mongodb,redis,supabase,firebase&theme=dark&perline=10" alt="Backend and database technologies" />
+  </a>
+</div>
 
-### AI and automation
+### Cloud, DevOps and tooling
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI_Integrations-412991?style=flat-square&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Workflow_Automation-0B6B4F?style=flat-square)
-![Local AI](https://img.shields.io/badge/Local_AI-1597D4?style=flat-square)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,gcp,vercel,linux,nginx,postman,vscode&theme=dark&perline=10" alt="Cloud, DevOps and tooling" />
+  </a>
+</div>
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Business_Integrations-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Clean_%26_Modular-0E7490?style=for-the-badge)
+
+</div>
 
 ---
 
-## Engineering Principles
+## AI / ML Expertise
 
-### Privacy by design
+| Domain | Proficiency | Engineering focus |
+|---|---:|---|
+| Local language-model integration | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | Evaluating local inference with Ollama to reduce unnecessary exposure of sensitive information |
+| AI-assisted workflow design | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | Using AI to classify, summarize and prioritize information while preserving human validation |
+| Business automation orchestration | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | n8n workflows, APIs, messaging platforms, calendars, databases and operational handoffs |
+| Prompt and tool design | ![Developing](https://img.shields.io/badge/Developing-0E7490?style=flat-square) | Designing constrained agent behavior, structured outputs and tool-assisted processes |
+| Data analysis and visualization | ![Working knowledge](https://img.shields.io/badge/Working_Knowledge-1597D4?style=flat-square) | Transforming operational data into metrics, dashboards and decision-support information |
+| Responsible AI engineering | ![Applied principles](https://img.shields.io/badge/Applied_Principles-1D4ED8?style=flat-square) | Privacy by design, human-in-the-loop review, minimal disclosure and explicit system boundaries |
 
-Sensitive systems should minimize unnecessary data exposure. When appropriate, I evaluate local processing and self-hosted infrastructure before sending information to external services.
+---
 
-### Human-in-the-loop
+## Featured Projects
 
-AI should assist critical decisions, not silently replace accountable human judgment.
+<details>
+<summary><strong>Public-sector AI collaboration</strong> — Local AI, automation and privacy-conscious information analysis</summary>
 
-### Secure by default
+<br />
 
-I aim to design systems around least privilege, protected secrets, input validation, authentication, authorization, auditability and clear trust boundaries.
+I was invited to collaborate with a public-sector technology team after they reviewed my previous work automating sales processes through Facebook.
 
-### Architecture with purpose
+The work began with practical automation and AI demonstrations. I built the first MVP of **Focus** in Flutter, reviewed existing workflows with the team and proposed local language-model inference through **Ollama** to avoid sending sensitive information to external cloud services.
 
-Clean architecture, modular design and documentation are useful only when they make a system safer, easier to maintain and easier to evolve.
+The AI-assisted concept was intended to help identify potential relationships, shared locations and relevant connections across existing records. It was designed to reduce repetitive review and support prioritization for accountable human validation—not to replace human analysis.
 
-### Outcomes over hype
+| Dimension | Details |
+|---|---|
+| **Stack** | Flutter, Ollama, local LLM experimentation, workflow automation and supporting scripts |
+| **Scale** | Limited internal proof of concept within a public-sector technical collaboration |
+| **Performance** | Two limited functional validations; broader testing was constrained by available computing hardware |
+| **Security** | Local inference proposal, minimized external data exposure, generalized public documentation and human review |
+| **Impact** | Formal recognition for technological contribution to information systems |
+| **Repository** | Confidential collaboration; no internal source code or operational details are published |
 
-The value of a system is measured by the problem it solves, the time it saves and the clarity it creates—not by the number of technologies it uses.
+> Details are intentionally generalized to respect privacy, security and institutional confidentiality. The recognition documents an individual contribution and does not imply institutional endorsement of TreeTech.
+
+</details>
+
+<details>
+<summary><strong>MailyLEGACY</strong> — Legacy healthcare monitoring platform</summary>
+
+<br />
+
+MailyLEGACY is a healthcare-oriented platform designed to capture, organize and visualize health indicators while supporting follow-up, reminders and better information continuity.
+
+The project explored indicators such as weight, height, body mass index, temperature, heart and respiratory rate, blood pressure, glucose, oxygen saturation, sleep information and other wellness-related data.
+
+| Dimension | Details |
+|---|---|
+| **Stack** | Kotlin, Android, React Native experimentation, backend APIs and health-data integrations |
+| **Scale** | Multi-indicator health-monitoring prototype and legacy product case study |
+| **Performance** | Designed around clear data capture, visualization and reminder workflows rather than diagnostic claims |
+| **Security** | Health information requires strict access control, data minimization and responsible handling |
+| **Impact** | Shaped my understanding of how repetitive processes consume time in healthcare environments |
+| **Repository** | Legacy/private codebase; public case-study documentation is being prepared |
+
+The platform was designed as a support tool and never as a replacement for professional medical evaluation, diagnosis or treatment.
+
+The project is no longer affiliated with the original clinic where the concept was developed.
+
+</details>
+
+<details>
+<summary><strong>Mototrack</strong> — Motorcycle lifecycle management platform</summary>
+
+<br />
+
+Mototrack is a product concept for organizing the complete ownership and maintenance history of motorcycles.
+
+Its product vision includes maintenance reminders based on time or mileage, expense tracking, digital service history, workshop discovery, rankings, coupons, loyalty benefits and cloud synchronization.
+
+| Dimension | Details |
+|---|---|
+| **Stack** | Planned mobile application, backend API and relational data architecture |
+| **Scale** | Freemium product concept for riders and participating workshops |
+| **Performance** | Event-driven reminders and lightweight ownership workflows are central design goals |
+| **Security** | User-owned records, authenticated access and clear separation between rider and business data |
+| **Impact** | Helps reduce forgotten maintenance and builds a durable digital relationship between riders and workshops |
+| **Repository** | Product repository and case-study curation in progress |
+
+</details>
+
+<details>
+<summary><strong>Econers</strong> — Proximity-based local commerce ecosystem</summary>
+
+<br />
+
+Econers is a local-commerce concept designed to connect nearby businesses and customers through location, relevance and timely offers.
+
+Its functional vision includes user and business profiles, geolocated promotions, relevance filters, proximity notifications, nearby offer discovery, notification history, business metrics and safer meeting or exchange points.
+
+| Dimension | Details |
+|---|---|
+| **Stack** | Mobile experience, geolocation services, notification workflows, API services and relational data |
+| **Scale** | Multi-user and multi-business proximity-commerce ecosystem |
+| **Performance** | Relevance funnel and geofence-triggered interactions designed to reduce noise and improve timing |
+| **Security** | Explicit location permissions, location minimization, access control and safe interaction boundaries |
+| **Impact** | Gives nearby businesses a channel for visibility without depending exclusively on large advertising platforms |
+| **Repository** | Architecture and public documentation are being organized |
+
+</details>
+
+<details>
+<summary><strong>Focus</strong> — Rapid Flutter productivity MVP</summary>
+
+<br />
+
+Focus began as a static Flutter MVP created during the public-sector collaboration.
+
+The first useful version was built in approximately four hours to demonstrate how a small, focused application could reduce operational friction before introducing more complex automation.
+
+| Dimension | Details |
+|---|---|
+| **Stack** | Flutter and Dart |
+| **Scale** | Lightweight MVP prepared for practical internal evaluation |
+| **Performance** | Small scope, minimal complexity and rapid delivery |
+| **Security** | The initial prototype avoided unnecessary sensitive-data handling |
+| **Impact** | Demonstrated rapid prototyping and the value of validating the smallest useful system first |
+| **Repository** | Public presentation and code cleanup are in progress |
+
+> Start with the smallest useful system, validate it with real users and improve from evidence.
+
+</details>
+
+---
+
+## Experience
+
+### Founder and Software Engineer — TreeTech
+
+**June 2026 — Present**
+
+TreeTech is an early-stage **AI & Software Studio** focused on creating software, agents and automation that return time to people and businesses.
+
+- Designing AI agents for customer service, sales and internal operations
+- Building n8n workflows, API integrations and messaging automations
+- Developing backend systems, mobile applications and operational tools
+- Exploring local-first AI for privacy-sensitive use cases
+- Creating the technical portfolio, brand and delivery standards from the ground up
+
+`AI Automation` `Backend Engineering` `Product Strategy` `n8n` `APIs` `Local AI`
+
+### Coordinator of Technological Development and Business Intelligence — Corporativo CAMSA
+
+**January 2026 — June 2026**
+
+Worked at the intersection of software delivery, healthcare-oriented products, automation and business requirements.
+
+- Coordinated backend and UX/UI work
+- Translated operational needs into software requirements
+- Participated in mobile, backend and integration decisions
+- Explored automation for customer attention and internal processes
+- Evaluated data handling, product scope and implementation constraints
+
+`Software Coordination` `Healthcare Technology` `Backend` `Mobile` `Automation`
+
+### Independent AI and Automation Collaboration — Public-sector technology team
+
+**December 2025**
+
+Contributed practical automation, rapid prototyping and a privacy-conscious local-AI proposal for information-analysis workflows.
+
+- Built the first Focus MVP in Flutter
+- Proposed local inference using Ollama
+- Supported limited functional validation
+- Contributed to an additional automation initiative
+- Received formal recognition for technological contribution
+
+`Flutter` `Ollama` `Automation` `Responsible AI` `Rapid Prototyping`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **C5 Morelos / Centro Estatal de Información — 2025** | Formal recognition for technological contribution to the institution's information systems |
+| **Rapid Focus MVP** | First useful Flutter prototype prepared in approximately four hours during a real operational collaboration |
+| **TreeTech launch** | Began building an independent AI and software studio around the mission of returning time through technology |
+
+</div>
+
+<details>
+<summary><strong>View the C5 Morelos recognition</strong></summary>
+
+<br />
+
+<div align="center">
+  <img src="./assets/recognitions/c5-morelos-recognition-2025.PNG" width="760" alt="Recognition from C5 Morelos for technological contribution to information systems" />
+</div>
+
+</details>
+
+---
+
+## Certifications and Academic Development
+
+### Universidad Tecnológica de Acapulco
+
+![Degree](https://img.shields.io/badge/Engineering-Multiplatform_Software_Development_%26_Management-0B6B4F?style=for-the-badge&logo=academia&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Progress-0E7490?style=for-the-badge)
+
+### Vocablo Tecnología en Idiomas
+
+![English](https://img.shields.io/badge/Diploma-American_English-1597D4?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+### Continuous technical study
+
+The following are active study and application areas and are **not presented as formal certifications unless supporting evidence is published**.
+
+![OWASP](https://img.shields.io/badge/OWASP-Application_Security-000000?style=flat-square&logo=owasp&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security-34495E?style=flat-square)
+![ISO 31000](https://img.shields.io/badge/ISO_31000-Risk_Management-0E7490?style=flat-square)
+![COBIT](https://img.shields.io/badge/COBIT-Governance-1D4ED8?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Modular_Systems-0B6B4F?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud_%26_DevOps-Continuous_Learning-1597D4?style=flat-square)
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Engineering_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
+[![Repositories](https://img.shields.io/badge/Repositories-View_Public_Work-0B6B4F?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
+
+</div>
+
+> Competitive-programming profiles will be added only after they contain sustained, verifiable activity.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/MrFtyoQr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrFtyoQr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=38BDF8&ring_color=0E7490" alt="Joseph Quintana GitHub statistics" />
+</a>
+<a href="https://github.com/MrFtyoQr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFtyoQr&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Joseph Quintana most used public repository languages" />
+</a>
+
+<br />
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=MrFtyoQr&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Joseph Quintana GitHub contribution streak" />
+</a>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MrFtyoQr&theme=tokyonight&no-bg=true&no-frame=true&column=-1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Joseph Quintana contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=MrFtyoQr&bg_color=0D1117&color=C9D1D9&line=22C55E&point=38BDF8&area=true&area_color=0E7490&hide_border=true&custom_title=Engineering%20Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrFtyoQr/MrFtyoQr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrFtyoQr/MrFtyoQr/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MrFtyoQr/MrFtyoQr/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## Current Focus
 
-I am currently focused on:
+```yaml
+learning:
+  - Local and privacy-conscious AI architectures
+  - Reliable AI agents with structured tool use
+  - Secure backend and cloud infrastructure
+  - Native wearable development for Wear OS and watchOS
 
-- Building TreeTech's public portfolio and first commercial case studies.
-- Developing AI agents for customer service, sales and operational support.
-- Creating local-first and privacy-conscious AI proofs of concept.
-- Improving business automation with n8n, APIs and messaging platforms.
-- Documenting selected projects as professional engineering case studies.
-- Connecting GitHub, LinkedIn and Instagram into one coherent technical brand.
+building:
+  - TreeTech public engineering portfolio
+  - AI agents for customer service, sales and operations
+  - Business automation with n8n, APIs and messaging platforms
+  - Professional case studies for Focus, MailyLEGACY, Mototrack and Econers
+
+exploring:
+  - Local LLM deployment and hardware constraints
+  - Voice agents and realistic telephone interactions
+  - Health and wearable integrations
+  - Productized automation services for local businesses
+
+open_to:
+  - AI automation projects
+  - Backend and API engineering
+  - Early-stage product collaboration
+  - Business systems consulting
+  - Professional software engineering opportunities
+```
 
 ---
 
-## GitHub Activity
+## Connect
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=MrFtyoQr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-  alt="Joseph Quintana GitHub statistics"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFtyoQr&layout=compact&hide_border=true&theme=github_dark"
-  alt="Most used languages"
-/>
+[![Gmail](https://img.shields.io/badge/Gmail-quintana.real.jqr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-quintana-7190583b6)
+[![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
+[![Instagram](https://img.shields.io/badge/Instagram-TreeTechMX-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/treetechmx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Engineering_Work-0B6B4F?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
 
 </div>
-
----
-
-## Contact
-
-I am open to conversations about software engineering, AI automation, business integrations, early-stage products and collaboration through TreeTech.
-
-- **LinkedIn:** [Joseph Quintana](https://www.linkedin.com/in/joseph-quintana-7190583b6)
-- **GitHub:** [MrFtyoQr](https://github.com/MrFtyoQr)
-- **Instagram:** [@treetechmx](https://www.instagram.com/treetechmx)
-- **Email:** [quintana.real.jqr@gmail.com](mailto:quintana.real.jqr@gmail.com)
-- **Location:** Acapulco, Guerrero, Mexico
 
 ---
 
@@ -355,3 +463,5 @@ I am open to conversations about software engineering, AI automation, business i
 **TreeTech · AI & Software Studio**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6B4F,50:0E7490,100:1D4ED8&height=120&section=footer" alt="TreeTech footer" />
