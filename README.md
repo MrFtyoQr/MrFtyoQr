@@ -59,11 +59,6 @@ Every repeated task is an opportunity to create more time for:
 </tr>
 </table>
 
-### Open to
-
-<div align="center">
-  <img src="./assets/ui/open-to.svg" alt="Open to opportunities" width="100%" />
-</div>
 
 ---
 
