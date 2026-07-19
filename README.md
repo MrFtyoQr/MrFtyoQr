@@ -4,14 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Building+technology+that+gives+people+their+time+back.;AI+Automation+%C2%B7+Backend+Systems+%C2%B7+Product+Engineering;Turning+real-world+problems+into+reliable+software.)](https://git.io/typing-svg)
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-Degree_in_progress-0B6B4F?style=flat-square&logo=academia&logoColor=white)
-![TreeTech](https://img.shields.io/badge/TreeTech-AI_%26_Software_Studio-0E7490?style=flat-square&logo=databricks&logoColor=white)
-![Location](https://img.shields.io/badge/Acapulco-Guerrero%2C_Mexico-1D4ED8?style=flat-square&logo=googlemaps&logoColor=white)
+<div align="center">
+  <img src="./assets/ui/identity.svg" alt="Professional identity" width="100%" />
+</div>
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Engineering_Portfolio-Explore_Repositories-0B6B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephquintana-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-quintana-7190583b6)
 [![Email](https://img.shields.io/badge/Email-Discuss_a_Project-1597D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
 
@@ -68,11 +68,9 @@ Every repeated task is an opportunity to create more time for:
 
 ### Open to
 
-![AI Automation](https://img.shields.io/badge/AI_Automation-Projects-0B6B4F?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend_%26_APIs-Collaboration-0E7490?style=flat-square)
-![Product Engineering](https://img.shields.io/badge/Product_Engineering-Early_Stage-1597D4?style=flat-square)
-![Business Systems](https://img.shields.io/badge/Business_Systems-Consulting-1D4ED8?style=flat-square)
-![Software Roles](https://img.shields.io/badge/Software_Engineering-Professional_Opportunities-34495E?style=flat-square)
+<div align="center">
+  <img src="./assets/ui/open-to.svg" alt="Open to opportunities" width="100%" />
+</div>
 
 ---
 
@@ -112,10 +110,7 @@ Every repeated task is an opportunity to create more time for:
 
 <div align="center">
 
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Business_Integrations-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Clean_%26_Modular-0E7490?style=for-the-badge)
+**Automation:** n8n · WhatsApp integrations · Local AI with Ollama · API orchestration
 
 </div>
 
@@ -125,12 +120,12 @@ Every repeated task is an opportunity to create more time for:
 
 | Domain | Proficiency | Engineering focus |
 |---|---:|---|
-| Local language-model integration | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | Evaluating local inference with Ollama to reduce unnecessary exposure of sensitive information |
-| AI-assisted workflow design | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | Using AI to classify, summarize and prioritize information while preserving human validation |
-| Business automation orchestration | ![Applied](https://img.shields.io/badge/Applied-0B6B4F?style=flat-square) | n8n workflows, APIs, messaging platforms, calendars, databases and operational handoffs |
-| Prompt and tool design | ![Developing](https://img.shields.io/badge/Developing-0E7490?style=flat-square) | Designing constrained agent behavior, structured outputs and tool-assisted processes |
-| Data analysis and visualization | ![Working knowledge](https://img.shields.io/badge/Working_Knowledge-1597D4?style=flat-square) | Transforming operational data into metrics, dashboards and decision-support information |
-| Responsible AI engineering | ![Applied principles](https://img.shields.io/badge/Applied_Principles-1D4ED8?style=flat-square) | Privacy by design, human-in-the-loop review, minimal disclosure and explicit system boundaries |
+| Local language-model integration | **Applied** | Evaluating local inference with Ollama to reduce unnecessary exposure of sensitive information |
+| AI-assisted workflow design | **Applied** | Using AI to classify, summarize and prioritize information while preserving human validation |
+| Business automation orchestration | **Applied** | n8n workflows, APIs, messaging platforms, calendars, databases and operational handoffs |
+| Prompt and tool design | **Developing** | Designing constrained agent behavior, structured outputs and tool-assisted processes |
+| Data analysis and visualization | **Working knowledge** | Transforming operational data into metrics, dashboards and decision-support information |
+| Responsible AI engineering | **Applied principles** | Privacy by design, human-in-the-loop review, minimal disclosure and explicit system boundaries |
 
 ---
 
@@ -321,25 +316,11 @@ Contributed practical automation, rapid prototyping and a privacy-conscious loca
 
 ## Certifications and Academic Development
 
-### Universidad Tecnológica de Acapulco
+<div align="center">
+  <img src="./assets/ui/education.svg" alt="Education and continuous technical study" width="100%" />
+</div>
 
-![Degree](https://img.shields.io/badge/Engineering-Multiplatform_Software_Development_%26_Management-0B6B4F?style=for-the-badge&logo=academia&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-0E7490?style=for-the-badge)
-
-### Vocablo Tecnología en Idiomas
-
-![English](https://img.shields.io/badge/Diploma-American_English-1597D4?style=for-the-badge&logo=googletranslate&logoColor=white)
-
-### Continuous technical study
-
-The following are active study and application areas and are **not presented as formal certifications unless supporting evidence is published**.
-
-![OWASP](https://img.shields.io/badge/OWASP-Application_Security-000000?style=flat-square&logo=owasp&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security-34495E?style=flat-square)
-![ISO 31000](https://img.shields.io/badge/ISO_31000-Risk_Management-0E7490?style=flat-square)
-![COBIT](https://img.shields.io/badge/COBIT-Governance-1D4ED8?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Modular_Systems-0B6B4F?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud_%26_DevOps-Continuous_Learning-1597D4?style=flat-square)
+The listed standards and practices represent active study and application areas. They are not presented as formal certifications unless supporting evidence is published.
 
 ---
 
@@ -347,12 +328,13 @@ The following are active study and application areas and are **not presented as 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Engineering_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
-[![Repositories](https://img.shields.io/badge/Repositories-View_Public_Work-0B6B4F?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
+[GitHub engineering portfolio](https://github.com/MrFtyoQr) ·
+[Public repositories](https://github.com/MrFtyoQr?tab=repositories)
 
 </div>
 
 > Competitive-programming profiles will be added only after they contain sustained, verifiable activity.
+
 
 ---
 
@@ -445,12 +427,13 @@ open_to:
 ## Connect
 
 <div align="center">
+  <img src="./assets/ui/connect.svg" alt="Professional contact channels" width="100%" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-quintana.real.jqr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-quintana-7190583b6)
-[![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
-[![Instagram](https://img.shields.io/badge/Instagram-TreeTechMX-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/treetechmx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Engineering_Work-0B6B4F?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/joseph-quintana-7190583b6) ·
+[GitHub](https://github.com/MrFtyoQr) ·
+[Email](mailto:quintana.real.jqr@gmail.com) ·
+[Instagram](https://www.instagram.com/treetechmx) ·
+[Portfolio](https://github.com/MrFtyoQr?tab=repositories)
 
 </div>
 

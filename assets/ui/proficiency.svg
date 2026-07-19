@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+<rect width="100%" height="100%" rx="14" fill="#0D1117"/>
+<rect x="18" y="12" width="130" height="40" rx="12" fill="#0B6B4F"/>
+<text x="83.0" y="37" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Applied</text>
+<rect x="162" y="12" width="130" height="40" rx="12" fill="#0E7490"/>
+<text x="227.0" y="37" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Developing</text>
+<rect x="306" y="12" width="161.39999999999998" height="40" rx="12" fill="#1597D4"/>
+<text x="386.7" y="37" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Working Knowledge</text>
+<rect x="481.4" y="12" width="169.6" height="40" rx="12" fill="#1D4ED8"/>
+<text x="566.1999999999999" y="37" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Applied Principles</text>
+</svg>
