@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Building+technology+that+gives+people+their+time+back.;AI+Automation+%C2%B7+Backend+Systems+%C2%B7+Product+Engineering;Turning+real-world+problems+into+reliable+software.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="./assets/ui/identity.svg" alt="Professional identity" width="100%" />
-</div>
 
 <br />
 
