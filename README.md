@@ -298,6 +298,7 @@ Contributed practical automation, rapid prototyping and a privacy-conscious loca
 </details>
 
 ---
+<!--
 
 ## Certifications and Academic Development
 
@@ -306,7 +307,7 @@ Contributed practical automation, rapid prototyping and a privacy-conscious loca
 </div>
 
 The listed standards and practices represent active study and application areas. They are not presented as formal certifications unless supporting evidence is published.
-
+-->
 ---
 
 ## Coding Profiles
