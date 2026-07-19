@@ -10,17 +10,10 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Engineering_Portfolio-Explore_Repositories-0B6B4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-quintana-7190583b6)
-[![Email](https://img.shields.io/badge/Email-Discuss_a_Project-1597D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintana.real.jqr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MrFtyoQr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrFtyoQr)
+| [**Selected Work**](https://github.com/MrFtyoQr?tab=repositories) | [**LinkedIn**](https://www.linkedin.com/in/joseph-quintana-7190583b6) | [**Email**](mailto:quintana.real.jqr@gmail.com) | [**GitHub**](https://github.com/MrFtyoQr) |
+|:---:|:---:|:---:|:---:|
 
-<br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=MrFtyoQr&label=Profile%20Views&color=0E7490&style=flat-square)
-![Followers](https://img.shields.io/github/followers/MrFtyoQr?label=Followers&style=flat-square&color=0B6B4F)
-![Stars](https://img.shields.io/github/stars/MrFtyoQr?affiliations=OWNER&label=Repository%20Stars&style=flat-square&color=1D4ED8)
-![Repositories](https://img.shields.io/badge/Public_Portfolio-In_Active_Curation-1597D4?style=flat-square)
+**Profile:** Public portfolio in active curation · [4 followers](https://github.com/MrFtyoQr?tab=followers) · [49 repositories](https://github.com/MrFtyoQr?tab=repositories)
 
 </div>
 
@@ -342,16 +335,15 @@ The listed standards and practices represent active study and application areas.
 
 <div align="center">
 
-<a href="https://github.com/MrFtyoQr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrFtyoQr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=38BDF8&ring_color=0E7490" alt="Joseph Quintana GitHub statistics" />
-</a>
-<a href="https://github.com/MrFtyoQr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFtyoQr&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Joseph Quintana most used public repository languages" />
-</a>
+| Metric | Current profile |
+|---|---:|
+| Public repositories | [View repositories](https://github.com/MrFtyoQr?tab=repositories) |
+| Contributions | [View contribution history](https://github.com/MrFtyoQr) |
+| Followers | [View network](https://github.com/MrFtyoQr?tab=followers) |
 
 <br />
 
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/MrFtyoQr">
   <img src="https://streak-stats.demolab.com/?user=MrFtyoQr&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Joseph Quintana GitHub contribution streak" />
 </a>
 
@@ -359,13 +351,16 @@ The listed standards and practices represent active study and application areas.
 
 ---
 
-## GitHub Trophies
+## Portfolio Status
 
-<div align="center">
+| Area | Status |
+|---|---|
+| Profile README | **Published and actively refined** |
+| Selected projects | **Being converted into professional case studies** |
+| Public documentation | **In progress** |
+| Open-source contributions | **Growing** |
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=MrFtyoQr&theme=tokyonight&no-bg=true&no-frame=true&column=-1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> I prefer verifiable work, documented decisions and real project evidence over decorative achievement widgets.
 
 ---
 
@@ -427,13 +422,14 @@ open_to:
 ## Connect
 
 <div align="center">
-  <img src="./assets/ui/connect.svg" alt="Professional contact channels" width="100%" />
 
-[LinkedIn](https://www.linkedin.com/in/joseph-quintana-7190583b6) ·
-[GitHub](https://github.com/MrFtyoQr) ·
-[Email](mailto:quintana.real.jqr@gmail.com) ·
-[Instagram](https://www.instagram.com/treetechmx) ·
-[Portfolio](https://github.com/MrFtyoQr?tab=repositories)
+| Platform | Purpose |
+|---|---|
+| [**LinkedIn**](https://www.linkedin.com/in/joseph-quintana-7190583b6) | Professional network, TreeTech updates and engineering content |
+| [**GitHub**](https://github.com/MrFtyoQr) | Source code, technical documentation and case studies |
+| [**Email**](mailto:quintana.real.jqr@gmail.com) | Project conversations and professional contact |
+| [**Instagram · @treetechmx**](https://www.instagram.com/treetechmx) | TreeTech demonstrations, short-form content and build-in-public updates |
+| [**Selected Work**](https://github.com/MrFtyoQr?tab=repositories) | Public repositories and engineering portfolio |
 
 </div>
 
