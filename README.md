@@ -246,7 +246,7 @@ TreeTech is an early-stage **AI & Software Studio** focused on creating software
 
 ### Coordinator of Technological Development and Business Intelligence — Corporativo CAMSA
 
-**January 2026 — June 2026**
+**May 2025 — July 2026**
 
 Worked at the intersection of software delivery, healthcare-oriented products, automation and business requirements.
 
